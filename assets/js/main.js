@@ -62,9 +62,9 @@ contactForm.addEventListener('submit', (e)=>{
 
 /* --- Personalization (edit these) --- */
 const PROFILE = {
-  name: 'YOUR_NAME',
-  email: 'you@example.com',
-  phone: '+91 12345 67890',
+  name: 'Chandradeep Thakur',
+  email: 'chandradeepthakurgs@gmail.com',
+  phone: '+91 7533949432',
   links: {
     github: '#',
     linkedin: '#',
